@@ -5,6 +5,8 @@
 
 This project investigates the relationship between smartphone features and their prices using various regression techniques. It aims to answer the question: _Which features influence mobile phone pricing the most, and how accurately can we predict price using those features?_
 
+View [the notebook](https://github.com/wbott/ml-regression-mobile-phones/blob/main/MMP%20Analysis.ipynb) for an in-depth review of techniques.
+
 ---
 
 ## 🔧 Setup
